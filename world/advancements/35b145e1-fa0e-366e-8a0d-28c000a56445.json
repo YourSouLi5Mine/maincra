@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2019-08-12 23:24:16 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-07-29 01:46:53 -0500"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-08-09 00:38:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2019-08-04 16:27:20 -0500"
@@ -461,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-08-09 00:40:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-07-29 01:49:49 -0500"
@@ -497,6 +515,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2019-07-29 01:46:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-08-12 23:14:58 -0500"
     },
     "done": true
   },
@@ -551,6 +575,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2019-07-28 18:40:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-08-09 15:01:04 -0500"
     },
     "done": true
   },
@@ -614,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-08-12 23:21:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-07-29 00:49:59 -0500"
@@ -654,6 +690,7 @@
     "criteria": {
       "minecraft:pillager": "2019-07-30 01:29:34 -0500",
       "minecraft:skeleton": "2019-07-28 23:26:44 -0500",
+      "minecraft:zombie_pigman": "2019-08-09 18:00:33 -0500",
       "minecraft:ghast": "2019-08-01 22:23:16 -0500",
       "minecraft:magma_cube": "2019-08-01 22:27:40 -0500",
       "minecraft:spider": "2019-07-29 21:50:05 -0500",
@@ -1046,6 +1083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-08-09 00:38:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-07-28 22:53:36 -0500"
@@ -1088,9 +1131,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-08-12 23:21:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2019-08-01 21:23:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-08-09 00:38:49 -0500"
     },
     "done": true
   },
@@ -1291,6 +1346,8 @@
       "minecraft:forest": "2019-07-28 22:30:32 -0500",
       "minecraft:mountains": "2019-07-29 00:26:52 -0500",
       "minecraft:taiga": "2019-07-28 18:37:38 -0500",
+      "minecraft:taiga_hills": "2019-08-13 01:02:50 -0500",
+      "minecraft:desert": "2019-08-13 00:53:23 -0500",
       "minecraft:birch_forest": "2019-07-29 19:45:44 -0500",
       "minecraft:warm_ocean": "2019-07-28 18:41:54 -0500",
       "minecraft:deep_lukewarm_ocean": "2019-07-28 18:42:00 -0500",
@@ -1302,6 +1359,7 @@
       "minecraft:wooded_mountains": "2019-07-30 01:29:13 -0500",
       "minecraft:wooded_hills": "2019-07-29 19:39:21 -0500",
       "minecraft:stone_shore": "2019-07-29 19:12:29 -0500",
+      "minecraft:swamp": "2019-08-12 23:24:08 -0500",
       "minecraft:plains": "2019-07-28 18:41:14 -0500"
     },
     "done": false
@@ -1582,6 +1640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2019-08-12 23:21:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2019-07-29 00:49:50 -0500"
@@ -1645,6 +1709,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2019-08-01 22:14:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2019-08-13 00:59:28 -0500"
     },
     "done": true
   },
@@ -2550,6 +2620,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-09 15:16:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-07-29 00:49:50 -0500"
@@ -2589,6 +2665,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-08-04 16:45:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-08-12 23:21:38 -0500"
     },
     "done": true
   },
@@ -3035,6 +3117,12 @@
       "has_stone": "2019-08-04 16:45:07 -0500"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/ragdoll.png": "2019-08-13 00:09:05 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {

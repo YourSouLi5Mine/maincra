@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "35b145e1-fa0e-366e-8a0d-28c000a56445",
+    "name": "YourSouLisMine",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
