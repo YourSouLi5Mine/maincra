@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-19 20:41:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-07-28 22:58:23 -0500"
@@ -1132,6 +1138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-08-19 20:17:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-08-12 23:21:38 -0500"
@@ -1347,6 +1359,7 @@
       "minecraft:forest": "2019-07-28 22:30:32 -0500",
       "minecraft:mountains": "2019-07-29 00:26:52 -0500",
       "minecraft:taiga": "2019-07-28 18:37:38 -0500",
+      "minecraft:giant_tree_taiga": "2019-08-19 22:15:56 -0500",
       "minecraft:taiga_hills": "2019-08-13 01:02:50 -0500",
       "minecraft:desert": "2019-08-13 00:53:23 -0500",
       "minecraft:birch_forest": "2019-07-29 19:45:44 -0500",
@@ -1360,6 +1373,7 @@
       "minecraft:wooded_mountains": "2019-07-30 01:29:13 -0500",
       "minecraft:wooded_hills": "2019-07-29 19:39:21 -0500",
       "minecraft:stone_shore": "2019-07-29 19:12:29 -0500",
+      "minecraft:giant_tree_taiga_hills": "2019-08-19 22:16:03 -0500",
       "minecraft:swamp": "2019-08-12 23:24:08 -0500",
       "minecraft:plains": "2019-07-28 18:41:14 -0500"
     },
@@ -1461,6 +1475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-19 20:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-07-28 22:29:36 -0500"
@@ -1470,6 +1490,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2019-08-04 16:04:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-08-19 20:25:38 -0500"
     },
     "done": true
   },
@@ -1922,6 +1948,7 @@
       "cooked_cod": "2019-07-29 22:26:26 -0500",
       "bread": "2019-08-01 20:18:38 -0500",
       "rotten_flesh": "2019-07-28 22:49:08 -0500",
+      "cooked_chicken": "2019-08-19 20:28:56 -0500",
       "cooked_salmon": "2019-08-06 00:25:31 -0500",
       "carrot": "2019-08-04 17:40:41 -0500"
     },
@@ -2735,6 +2762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2019-08-19 20:17:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-07-28 18:40:43 -0500"
@@ -2960,6 +2993,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-08-07 00:49:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2019-08-19 20:14:37 -0500"
     },
     "done": true
   },
