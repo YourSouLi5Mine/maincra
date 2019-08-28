@@ -1,7 +1,25 @@
 [
   {
+    "uuid": "5a7ab106-a634-303d-98f3-687d7bf6c1e9",
+    "name": "elbarto",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "35b145e1-fa0e-366e-8a0d-28c000a56445",
     "name": "YourSouLisMine",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "80ac10ce-7552-3826-ba7d-fd7b66005f4c",
+    "name": "Condoman",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e69bcc34-fff5-3d11-b1cc-3ff37a6bbea9",
+    "name": "Flayer56",
     "level": 4,
     "bypassesPlayerLimit": false
   }
