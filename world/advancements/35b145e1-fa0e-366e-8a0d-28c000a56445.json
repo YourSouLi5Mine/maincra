@@ -705,6 +705,7 @@
       "minecraft:phantom": "2019-08-06 00:00:51 -0500",
       "minecraft:witch": "2019-07-28 23:32:30 -0500",
       "minecraft:husk": "2019-08-18 12:39:12 -0500",
+      "minecraft:cave_spider": "2019-08-30 00:38:12 -0500",
       "minecraft:enderman": "2019-07-29 21:49:07 -0500",
       "minecraft:zombie": "2019-07-28 22:36:49 -0500",
       "minecraft:drowned": "2019-08-04 16:19:34 -0500",
@@ -1375,6 +1376,7 @@
       "minecraft:stone_shore": "2019-07-29 19:12:29 -0500",
       "minecraft:giant_tree_taiga_hills": "2019-08-19 22:16:03 -0500",
       "minecraft:swamp": "2019-08-12 23:24:08 -0500",
+      "minecraft:savanna": "2019-08-30 00:22:19 -0500",
       "minecraft:plains": "2019-07-28 18:41:14 -0500"
     },
     "done": false
