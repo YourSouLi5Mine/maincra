@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-09-20 23:19:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-07-28 19:06:31 -0500"
@@ -1386,6 +1392,7 @@
       "minecraft:wooded_hills": "2019-07-29 19:24:23 -0500",
       "minecraft:stone_shore": "2019-07-30 01:33:26 -0500",
       "minecraft:wooded_badlands_plateau": "2019-08-20 22:54:09 -0500",
+      "minecraft:swamp": "2019-09-20 22:55:52 -0500",
       "minecraft:savanna": "2019-08-04 21:38:52 -0500",
       "minecraft:plains": "2019-07-28 18:46:23 -0500"
     },
@@ -1601,9 +1608,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-09-20 23:18:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-07-29 01:59:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-09-20 22:34:15 -0500"
     },
     "done": true
   },
@@ -1695,6 +1714,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-07-28 18:57:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2019-09-20 22:34:15 -0500"
     },
     "done": true
   },
@@ -1982,6 +2007,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-09-20 22:25:30 -0500",
       "cooked_mutton": "2019-08-01 20:56:23 -0500",
       "cooked_beef": "2019-07-28 19:26:56 -0500",
       "apple": "2019-08-06 01:19:59 -0500",
@@ -2322,6 +2348,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2019-07-28 23:46:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-09-20 23:19:14 -0500"
     },
     "done": true
   },
@@ -2667,6 +2699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-09-20 23:19:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-07-28 23:54:27 -0500"
@@ -2730,6 +2768,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-07-30 01:46:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-09-20 23:18:49 -0500"
     },
     "done": true
   },
